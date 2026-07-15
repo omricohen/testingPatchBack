@@ -1,0 +1,7 @@
+[INFO] 2026-07-15T20:45:58.233Z handleHookRunStop started
+[INFO] 2026-07-15T20:45:58.235Z Hook input received
+[INFO] 2026-07-15T20:45:58.235Z [session=6b6d633b-c696-4394-95c4-8b2a5937ca74] Session ID: 6b6d633b-c696-4394-95c4-8b2a5937ca74
+[INFO] 2026-07-15T20:45:58.235Z [session=6b6d633b-c696-4394-95c4-8b2a5937ca74] Resolved pluginRoot: /Users/omri/.claude/plugins/cache/a5c-ai/babysitter/4.0.158
+[INFO] 2026-07-15T20:45:58.235Z [session=6b6d633b-c696-4394-95c4-8b2a5937ca74] Resolved stateDir: /Users/omri/.a5c/state
+[INFO] 2026-07-15T20:45:58.235Z [session=6b6d633b-c696-4394-95c4-8b2a5937ca74] Checking session file at: /Users/omri/.a5c/state/6b6d633b-c696-4394-95c4-8b2a5937ca74.md
+[INFO] 2026-07-15T20:45:58.236Z [session=6b6d633b-c696-4394-95c4-8b2a5937ca74] No run associated with session — allowing exit
